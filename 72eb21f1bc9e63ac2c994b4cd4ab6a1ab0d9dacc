@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f20b9f69_a7fcf2d4",
+        "filename": "src/Divide2Numbers.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-17T17:21:00Z",
+      "side": 1,
+      "message": "Change the comment to make it more meaningful.",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 10
+      },
+      "revId": "72eb21f1bc9e63ac2c994b4cd4ab6a1ab0d9dacc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "85835e47_a7499b4c",
+        "filename": "src/Divide2Numbers.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-17T17:21:00Z",
+      "side": 1,
+      "message": "change this to: public final class",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 12
+      },
+      "revId": "72eb21f1bc9e63ac2c994b4cd4ab6a1ab0d9dacc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
