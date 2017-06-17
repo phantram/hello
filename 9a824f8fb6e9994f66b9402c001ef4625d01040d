@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "633c57fb_ec2741d3",
+        "filename": "src/Sum2Numbers.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-17T03:12:27Z",
+      "side": 1,
+      "message": "replace public class with:\npublic final class",
+      "range": {
+        "startLine": 4,
+        "startChar": 6,
+        "endLine": 4,
+        "endChar": 7
+      },
+      "revId": "9a824f8fb6e9994f66b9402c001ef4625d01040d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
