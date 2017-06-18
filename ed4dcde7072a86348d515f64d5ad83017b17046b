@@ -22,6 +22,30 @@
       "revId": "ed4dcde7072a86348d515f64d5ad83017b17046b",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "868b1cea_46811149",
+        "filename": "src/Sum2RanNumbers.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-18T01:48:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "37b12131_f6e5bc06",
+      "range": {
+        "startLine": 8,
+        "startChar": 8,
+        "endLine": 11,
+        "endChar": 34
+      },
+      "revId": "ed4dcde7072a86348d515f64d5ad83017b17046b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
