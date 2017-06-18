@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "37b12131_f6e5bc06",
+        "filename": "src/Sum2RanNumbers.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-18T01:41:05Z",
+      "side": 1,
+      "message": "Let\u0027s put this fix to your existing program Sum2Numbers instead of creating a new number. So copy this logic to Sum2Numbers and delete this file.",
+      "range": {
+        "startLine": 8,
+        "startChar": 8,
+        "endLine": 11,
+        "endChar": 34
+      },
+      "revId": "ed4dcde7072a86348d515f64d5ad83017b17046b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
