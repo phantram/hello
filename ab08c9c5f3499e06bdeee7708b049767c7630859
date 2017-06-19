@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4c953ad3_3d4b0df8",
+        "filename": "src/math.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-19T03:41:29Z",
+      "side": 1,
+      "message": "Rename this class to be something that makes sense, e.g. FindMax",
+      "range": {
+        "startLine": 4,
+        "startChar": 13,
+        "endLine": 4,
+        "endChar": 17
+      },
+      "revId": "ab08c9c5f3499e06bdeee7708b049767c7630859",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "645b4040_c9b19124",
+        "filename": "src/math.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-19T03:41:29Z",
+      "side": 1,
+      "message": "Use Scanner to receiver numbers input from the keyboard. So you need to get the input for the number of elements, then the values for each element of the array.",
+      "range": {
+        "startLine": 6,
+        "startChar": 14,
+        "endLine": 6,
+        "endChar": 21
+      },
+      "revId": "ab08c9c5f3499e06bdeee7708b049767c7630859",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
