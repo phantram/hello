@@ -16,6 +16,24 @@
       "revId": "132a1fabf3a231f0188ed8b6c53fae9207ec050a",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4f94e85b_41f02f83",
+        "filename": ".idea/uiDesigner.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-19T21:18:10Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "acf021c3_d627681b",
+      "revId": "132a1fabf3a231f0188ed8b6c53fae9207ec050a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
