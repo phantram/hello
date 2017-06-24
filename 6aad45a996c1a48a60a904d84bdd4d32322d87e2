@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "93ec8bb2_22545c83",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-24T17:55:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b71fa662_1c177a17",
+      "range": {
+        "startLine": 6,
+        "startChar": 8,
+        "endLine": 6,
+        "endChar": 10
+      },
+      "revId": "6aad45a996c1a48a60a904d84bdd4d32322d87e2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "4cf53b9f_ec14cbc8",
         "filename": "src/CodingBatWarmUp1.java",
         "patchSetId": 2
@@ -36,6 +60,30 @@
       "writtenOn": "2017-06-24T04:12:04Z",
       "side": 1,
       "message": "For this and the above line, you don\u0027t need Math.abs. Why? because in this case, if you already know that n \u003c\u003d 21 (i.e. 21-n \u003e\u003d 0), then the absolute value difference between n and 21 is 21-n, right?\n\nAnyway, when you change the logic, run the test again in codingbad.com to make sure the tests still pass",
+      "range": {
+        "startLine": 33,
+        "startChar": 19,
+        "endLine": 33,
+        "endChar": 27
+      },
+      "revId": "6aad45a996c1a48a60a904d84bdd4d32322d87e2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "187f263d_f1c8c914",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-24T17:55:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4cf53b9f_ec14cbc8",
       "range": {
         "startLine": 33,
         "startChar": 19,
@@ -71,6 +119,30 @@
     },
     {
       "key": {
+        "uuid": "a29ccc97_919995d2",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-24T17:55:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "088b1231_9b3d23fb",
+      "range": {
+        "startLine": 38,
+        "startChar": 8,
+        "endLine": 38,
+        "endChar": 10
+      },
+      "revId": "6aad45a996c1a48a60a904d84bdd4d32322d87e2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "01036169_d56a7071",
         "filename": "src/CodingBatWarmUp1.java",
         "patchSetId": 2
@@ -82,6 +154,30 @@
       "writtenOn": "2017-06-24T04:12:04Z",
       "side": 1,
       "message": "If you have something like this:\nif ( false ) {\n    code to run if false;\n} else {\n    code to run if true;\n}\n\nIt\u0027s usually easier to read the positive first:\nif ( true ) {\n    code to run if true;\n} else {\n    code to run if false;\n}\n\nSo in this particular case, it can be easier to read if you write:\n\nif (negative \u003d\u003d true) {\n    return ...;\n} else {\n    return ...;\n}\n\nAnd pay attention to this expression: negative \u003d\u003d true: instead of saying: if (negative \u003d\u003d true) { ... }, you can just say: if (negative) {}",
+      "range": {
+        "startLine": 54,
+        "startChar": 8,
+        "endLine": 54,
+        "endChar": 10
+      },
+      "revId": "6aad45a996c1a48a60a904d84bdd4d32322d87e2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "712abc85_40748c7a",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-24T17:55:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "01036169_d56a7071",
       "range": {
         "startLine": 54,
         "startChar": 8,
