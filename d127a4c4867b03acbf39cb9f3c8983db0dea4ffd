@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "ce6a8a52_b8b6923e",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d4a4725c_fce7864c",
+      "range": {
+        "startLine": 74,
+        "startChar": 23,
+        "endLine": 74,
+        "endChar": 32
+      },
+      "revId": "d127a4c4867b03acbf39cb9f3c8983db0dea4ffd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "583d831b_22f7c392",
         "filename": "src/CodingBatWarmUp1.java",
         "patchSetId": 5
@@ -36,6 +60,30 @@
       "writtenOn": "2017-06-25T19:02:52Z",
       "side": 1,
       "message": "You can use method: Math.max(a, b)",
+      "range": {
+        "startLine": 161,
+        "startChar": 24,
+        "endLine": 161,
+        "endChar": 25
+      },
+      "revId": "d127a4c4867b03acbf39cb9f3c8983db0dea4ffd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab0747b2_6a431bb5",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "583d831b_22f7c392",
       "range": {
         "startLine": 161,
         "startChar": 24,
