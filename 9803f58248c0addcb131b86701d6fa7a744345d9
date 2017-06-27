@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ee35302a_be1162d6",
+        "filename": "src/CodingBatWarmUp2.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-27T05:13:05Z",
+      "side": 1,
+      "message": "Update javadoc.",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 30
+      },
+      "revId": "9803f58248c0addcb131b86701d6fa7a744345d9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3715cece_bb34fe20",
+        "filename": "src/CodingBatWarmUp2.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-27T05:13:05Z",
+      "side": 1,
+      "message": "this is basically correct, but you don\u0027t need to split into 2 cases: nums.length \u003e\u003d 4 or nums.length \u003c 4, you can combine like this:\nfor (int i \u003d 0; i \u003c Math.min(4, nums.length); i \u003d i + 1) {\n  ...\n}",
+      "revId": "9803f58248c0addcb131b86701d6fa7a744345d9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
