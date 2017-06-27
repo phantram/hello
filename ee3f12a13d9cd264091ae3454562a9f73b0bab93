@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "e8435082_19288f5d",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dc19a39d_6ace7958",
+      "revId": "ee3f12a13d9cd264091ae3454562a9f73b0bab93",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "19ba9daa_4b7dce38",
         "filename": "src/CodingBatWarmUp1.java",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2017-06-27T00:37:27Z",
       "side": 1,
       "message": "use StringBuilder()",
+      "revId": "ee3f12a13d9cd264091ae3454562a9f73b0bab93",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d91d4b80_9d646c1a",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "19ba9daa_4b7dce38",
       "revId": "ee3f12a13d9cd264091ae3454562a9f73b0bab93",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
