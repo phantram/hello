@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "21266360_02ce4a5e",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bfec3770_3ecbae21",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 10
+      },
+      "revId": "25bde2906c7d6443db7ec365401cd057c6023956",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "87b5c375_cf622472",
         "filename": "src/CodingBatWarmUp1.java",
         "patchSetId": 4
@@ -36,6 +60,30 @@
       "writtenOn": "2017-06-24T19:58:50Z",
       "side": 1,
       "message": "You can try assign this to a variable to see if your final implementation is simpler:\n\nboolean aIsTeen \u003d a \u003e\u003d 13 \u0026\u0026 a \u003c\u003d 19;\nboolean bIsTeen \u003d b \u003e\u003d 13 \u0026\u0026 b \u003c\u003d 19;\nreturn ...",
+      "range": {
+        "startLine": 98,
+        "startChar": 17,
+        "endLine": 98,
+        "endChar": 35
+      },
+      "revId": "25bde2906c7d6443db7ec365401cd057c6023956",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ced0227_4ffcdf8d",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "87b5c375_cf622472",
       "range": {
         "startLine": 98,
         "startChar": 17,
@@ -71,6 +119,30 @@
     },
     {
       "key": {
+        "uuid": "ced00985_406c5a3e",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3c6520db_5cf7f4ec",
+      "range": {
+        "startLine": 104,
+        "startChar": 10,
+        "endLine": 104,
+        "endChar": 14
+      },
+      "revId": "25bde2906c7d6443db7ec365401cd057c6023956",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a3201d17_d4b6135c",
         "filename": "src/CodingBatWarmUp1.java",
         "patchSetId": 4
@@ -82,6 +154,30 @@
       "writtenOn": "2017-06-24T19:58:50Z",
       "side": 1,
       "message": "You can simplify this whole problem by assigning some variables:\n\nboolean aInRange \u003d a \u003e\u003d 10 \u0026\u0026 a \u003c\u003d 20;\nboolean bInRange \u003d b \u003e\u003d 10 \u0026\u0026 b \u003c\u003d 20;\nif (aInRange \u0026\u0026 bInRange) {\n} else if (aInRange) {\n} else if (bInRange) {\n} else {\n}",
+      "range": {
+        "startLine": 118,
+        "startChar": 8,
+        "endLine": 118,
+        "endChar": 10
+      },
+      "revId": "25bde2906c7d6443db7ec365401cd057c6023956",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b90d1c6_985b5be5",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1011497
+      },
+      "writtenOn": "2017-06-27T03:53:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a3201d17_d4b6135c",
       "range": {
         "startLine": 118,
         "startChar": 8,
