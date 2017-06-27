@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dc19a39d_6ace7958",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-27T00:37:27Z",
+      "side": 1,
+      "message": "you can count the number of e character using charAt",
+      "revId": "ee3f12a13d9cd264091ae3454562a9f73b0bab93",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "19ba9daa_4b7dce38",
+        "filename": "src/CodingBatWarmUp1.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-06-27T00:37:27Z",
+      "side": 1,
+      "message": "use StringBuilder()",
+      "revId": "ee3f12a13d9cd264091ae3454562a9f73b0bab93",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
