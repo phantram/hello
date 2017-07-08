@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8203294d_5b476c11",
+        "filename": "src/CodingBatWarmUp2.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-08T19:15:46Z",
+      "side": 1,
+      "message": "can you use StringBuilder instead of String. StringBuilder is better because it\u0027s mutable. String is immutable, so this concatenation is expensive: times \u003d times + str.",
+      "range": {
+        "startLine": 8,
+        "startChar": 8,
+        "endLine": 8,
+        "endChar": 26
+      },
+      "revId": "af2ba231a8d4b0292bc0ea427b3c5b3db5c8364e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "085ffd50_6febc046",
+        "filename": "src/CodingBatWarmUp2.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-08T19:15:46Z",
+      "side": 1,
+      "message": "If you declare this variable in this if block {}, it won\u0027t be visible outside of the block for usage below.",
+      "range": {
+        "startLine": 20,
+        "startChar": 12,
+        "endLine": 20,
+        "endChar": 32
+      },
+      "revId": "af2ba231a8d4b0292bc0ea427b3c5b3db5c8364e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f18d61a_0f9b6c72",
+        "filename": "src/CodingBatWarmUp2.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-08T19:15:46Z",
+      "side": 1,
+      "message": "fix indentation",
+      "range": {
+        "startLine": 94,
+        "startChar": 1,
+        "endLine": 94,
+        "endChar": 12
+      },
+      "revId": "af2ba231a8d4b0292bc0ea427b3c5b3db5c8364e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
