@@ -1,5 +1,5 @@
 /**
- * Created by tram on 7/30/17.
+ * String 1: http://codingbat.com/java/String-1
  */
 public class CodingBatString1 {
 
@@ -41,13 +41,7 @@ public class CodingBatString1 {
     }
 
     public String withoutEnd(String str) {
-        StringBuilder middle = new StringBuilder();
-
-        for (int i = 1; i < str.length() - 1 ;i++){
-            middle.append(str.charAt(i));
-        }
-
-        return middle.toString();
+        return str.substring(1 , str.length() - 1);
     }
 
     public String comboString(String a , String b) {
@@ -80,8 +74,7 @@ public class CodingBatString1 {
         if (front) {
             return str.substring(0 , 1);
         } else {
-            int length = str.length();
-            return str.substring(length - 1 , length);
+            return str.substring(str.length() - 1);
         }
     }
 
@@ -89,22 +82,18 @@ public class CodingBatString1 {
         if (str.length() <= 2) {
             return "";
         } else {
-            StringBuilder middle = new StringBuilder();
-            for (int i = 1; i < str.length() - 1; i++) {
-                middle.append(str.charAt(i));
-            }
-            return middle.toString();
+            return str.substring(1 , str.length() - 1);
         }
     }
 
     public String middleTwo(String str) {
         int half = str.length() / 2;
 
-        return str.substring(half - 1 , half) + str.substring(half , half + 1);
+        return str.substring(half - 1 , half + 1);
     }
 
     public boolean endsLy(String str) {
-        return str.length() >= 2 && str.substring(str.length() - 2).equals("ly");
+        return str.endsWith("ly");
     }
 
     public String nTwice(String str , int n) {
@@ -113,4 +102,5 @@ public class CodingBatString1 {
 
         return first + last;
     }
+    
 }
