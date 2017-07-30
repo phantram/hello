@@ -1,5 +1,5 @@
 /**
- * Created by tram on 7/30/17.
+ * String 1: http://codingbat.com/java/String-1
  */
 public class CodingBatString1 {
 
