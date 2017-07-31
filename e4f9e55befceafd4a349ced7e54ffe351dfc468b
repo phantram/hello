@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3689645c_2d2ce1bf",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-31T14:07:57Z",
+      "side": 1,
+      "message": "Change description",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 30
+      },
+      "revId": "e4f9e55befceafd4a349ced7e54ffe351dfc468b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e9b8c157_5087ea51",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-31T14:07:57Z",
+      "side": 1,
+      "message": "Could you try using substring for this.",
+      "range": {
+        "startLine": 43,
+        "startChar": 18,
+        "endLine": 43,
+        "endChar": 28
+      },
+      "revId": "e4f9e55befceafd4a349ced7e54ffe351dfc468b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1d8c391d_d7d20f21",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-31T14:07:57Z",
+      "side": 1,
+      "message": "You can just do str.substring(length - 1);",
+      "range": {
+        "startLine": 84,
+        "startChar": 19,
+        "endLine": 84,
+        "endChar": 53
+      },
+      "revId": "e4f9e55befceafd4a349ced7e54ffe351dfc468b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "562bca5d_faa9e212",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-31T14:07:57Z",
+      "side": 1,
+      "message": "Could you try using substring",
+      "range": {
+        "startLine": 92,
+        "startChar": 13,
+        "endLine": 96,
+        "endChar": 37
+      },
+      "revId": "e4f9e55befceafd4a349ced7e54ffe351dfc468b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95a4bc0c_b1c1e0b1",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-31T14:07:57Z",
+      "side": 1,
+      "message": "Could you try using just one substring instead of 2 substrings",
+      "range": {
+        "startLine": 103,
+        "startChar": 15,
+        "endLine": 103,
+        "endChar": 78
+      },
+      "revId": "e4f9e55befceafd4a349ced7e54ffe351dfc468b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8c7d538b_5afe72ee",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-07-31T14:07:57Z",
+      "side": 1,
+      "message": "This is fine. Another solution is to use endsWith:\n\nreturn str.endsWith(\"ly\");",
+      "range": {
+        "startLine": 107,
+        "startChar": 8,
+        "endLine": 107,
+        "endChar": 81
+      },
+      "revId": "e4f9e55befceafd4a349ced7e54ffe351dfc468b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
