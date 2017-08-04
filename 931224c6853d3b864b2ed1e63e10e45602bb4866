@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ea09caf2_0fd8289f",
+        "filename": "src/CodingBatString1.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1011462
+      },
+      "writtenOn": "2017-08-04T03:53:50Z",
+      "side": 1,
+      "message": "withoutEnd2() is a better implementation because it handle more edge cases. So here you can reuse that method by doing this:\n\nreturn withoutEnd2(str);",
+      "range": {
+        "startLine": 44,
+        "startChar": 8,
+        "endLine": 44,
+        "endChar": 51
+      },
+      "revId": "931224c6853d3b864b2ed1e63e10e45602bb4866",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
